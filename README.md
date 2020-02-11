@@ -1,7 +1,7 @@
 # PONG_processing3
 Practica 1 de CIU
 # CIU - Práctica 1
-
+# Rubén García Quintana
 
 ## Programando el juego Pong con processing 
 
